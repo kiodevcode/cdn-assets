@@ -920,7 +920,7 @@ textarea.w-input,textarea.w-select {
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     .w-container {
         max-width:none
     }
@@ -1945,7 +1945,7 @@ textarea.w-input,textarea.w-select {
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     .w-nav[data-collapse=tiny] .w-nav-menu {
         display:none
     }
@@ -2008,7 +2008,7 @@ textarea.w-input,textarea.w-select {
     display: block
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     .w-tab-link {
         display:block
     }
@@ -3014,7 +3014,7 @@ textarea.w-input,textarea.w-select {
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     .w-commerce-commercecheckoutemailinput,.w-commerce-commercecheckoutshippingfullname,.w-commerce-commercecheckoutshippingstreetaddress,.w-commerce-commercecheckoutshippingstreetaddressoptional {
         font-size:16px
     }
@@ -3116,7 +3116,7 @@ li {
 }
 
 img {
-    max-width: 100%;
+    max-width: 90%;
     display: inline-block
 }
 
@@ -14418,7 +14418,7 @@ figcaption {
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     h1 {
         font-size:32px
     }
@@ -16496,7 +16496,7 @@ figcaption {
     }
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 400px) {
     #w-node-_69d2ea14-1057-30d6-4244-8ea152a7a4e2-52a7a4d8 {
         grid-template-rows:auto auto auto auto auto auto;
         grid-template-columns: 1fr
