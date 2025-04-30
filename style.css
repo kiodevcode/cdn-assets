@@ -5096,7 +5096,7 @@ figcaption {
 .btn-primary.button-row.call-to-action {
     background-color: var(--accent--primary-1);
     margin-right: 0;
-    padding: 30px 42px;
+    padding: 30px 30px;
     font-size: 22px;
     box-shadow: 5px 5px 5px #0003
 }
@@ -9901,7 +9901,7 @@ figcaption {
 .btn-primary-4.button-row.call-to-action {
     background-color: #ffce51;
     margin-right: 0;
-    padding: 30px 42px;
+    padding: 30px 30px;
     font-size: 22px;
     box-shadow: 5px 5px 5px #0003
 }
